@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-hello-world",
+  "name": "gatsby-typescript-scss",
   "private": true,
-  "description": "A simplified bare-bones starter for Gatsby",
+  "description": "A simple starter project for Gatsby with TypeScript and SCSS support",
   "version": "0.1.0",
   "license": "0BSD",
   "scripts": {
@@ -15,17 +15,27 @@
   },
   "dependencies": {
     "gatsby": "^2.24.47",
+    "gatsby-plugin-layout": "^1.3.10",
+    "gatsby-plugin-react-helmet": "^3.3.10",
+    "gatsby-plugin-sass": "^2.3.12",
+    "node-sass": "^4.14.1",
     "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "react-dom": "^16.12.0",
+    "react-helmet": "^6.1.0"
   },
   "devDependencies": {
+    "@tsconfig/node12": "^1.0.7",
+    "@types/node": "^14.6.0",
+    "@types/react": "^16.9.46",
+    "@types/react-dom": "^16.9.8",
+    "@types/react-helmet": "^6.1.0",
     "prettier": "2.0.5"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"
+    "url": "https://github.com/henningta/gatsby-typescript-scss"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/henningta/gatsby-typescript-scss/issues"
   }
 }
