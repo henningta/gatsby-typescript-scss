@@ -1,11 +1,13 @@
 <p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
+  <a href="https://www.gatsbyjs.com">
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
   </a>
 </p>
 <h1 align="center">
-  Gatsby minimal starter
+  Gatsby - TypeScript/Sass starter
 </h1>
+
+This starter project is built off the official Gatsby starter and comes equipped with TypeScript and Sass/Scss support for a more powerful and flexible front-end development experience.
 
 ## 🚀 Quick start
 
@@ -24,28 +26,23 @@
 
     ```shell
     cd my-gatsby-site/
-    npm run develop
+    yarn develop
     ```
 
 3.  **Open the code and start customizing!**
 
     Your site is now running at http://localhost:8000!
 
-    Edit `src/pages/index.js` to see your site update in real-time!
+    Edit `src/pages/index.tsx` to see your site update in real-time!
 
 4.  **Learn more**
 
-    - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Tutorials](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Guides](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
+    - [Documentation](https://www.gatsbyjs.com/docs)
+    - [Tutorials](https://www.gatsbyjs.com/tutorial)
+    - [Guides](https://www.gatsbyjs.com/tutorial)
+    - [API Reference](https://www.gatsbyjs.com/docs/api-reference)
     - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+    - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet)
 
 ## 🚀 Quick start (Gatsby Cloud)
 
