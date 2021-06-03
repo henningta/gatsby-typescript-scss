@@ -17,7 +17,7 @@ This starter project is built off the official Gatsby starter and comes equipped
 
     ```shell
     # create a new Gatsby site using the TypeScript/Sass starter
-    gatsby new my-gatsby-site https://github.com/henningta/gatsby-typescript-scss
+    git clone https://github.com/henningta/gatsby-typescript-scss.git my-gatsby-site
     ```
 
 2.  **Start developing.**
