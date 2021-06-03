@@ -16,8 +16,8 @@ This starter project is built off the official Gatsby starter and comes equipped
     Use the Gatsby CLI to create a new site, specifying the minimal starter.
 
     ```shell
-    # create a new Gatsby site using the minimal starter
-    npm init gatsby
+    # create a new Gatsby site using the TypeScript/Sass starter
+    gatsby new my-gatsby-site https://github.com/henningta/gatsby-typescript-scss
     ```
 
 2.  **Start developing.**
@@ -26,6 +26,7 @@ This starter project is built off the official Gatsby starter and comes equipped
 
     ```shell
     cd my-gatsby-site/
+    yarn install
     yarn develop
     ```
 
