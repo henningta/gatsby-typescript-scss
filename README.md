@@ -27,7 +27,7 @@ This starter project is built off the official Gatsby starter and comes equipped
     ```shell
     cd my-gatsby-site/
     yarn install
-    yarn develop
+    yarn start
     ```
 
 3.  **Open the code and start customizing!**

@@ -5,7 +5,11 @@
   "description": "A simple starter project for Gatsby with TypeScript and Sass support",
   "author": "Travis Henning",
   "keywords": [
-    "gatsby", "typescript", "sass", "scss", "react"
+    "gatsby",
+    "typescript",
+    "sass",
+    "scss",
+    "react"
   ],
   "repository": {
     "type": "git",
@@ -26,31 +30,32 @@
     "@mdx-js/mdx": "^1.6.22",
     "@mdx-js/react": "^1.6.22",
     "clsx": "^1.1.1",
-    "gatsby": "^3.6.2",
-    "gatsby-plugin-image": "^1.6.0",
-    "gatsby-plugin-layout": "^2.6.0",
-    "gatsby-plugin-manifest": "^3.6.0",
-    "gatsby-plugin-mdx": "^2.6.0",
-    "gatsby-plugin-react-helmet": "^4.6.0",
-    "gatsby-plugin-sass": "^4.6.0",
-    "gatsby-plugin-sharp": "^3.6.0",
-    "gatsby-plugin-sitemap": "^4.2.0",
-    "gatsby-source-filesystem": "^3.6.0",
-    "gatsby-transformer-sharp": "^3.6.0",
+    "gatsby": "^4.0.2",
+    "gatsby-plugin-image": "^2.0.0",
+    "gatsby-plugin-layout": "^3.0.0",
+    "gatsby-plugin-manifest": "^4.0.0",
+    "gatsby-plugin-mdx": "^3.0.0",
+    "gatsby-plugin-react-helmet": "^5.0.0",
+    "gatsby-plugin-sass": "^5.0.0",
+    "gatsby-plugin-sharp": "^4.0.1",
+    "gatsby-plugin-sitemap": "^5.0.0",
+    "gatsby-source-filesystem": "^4.0.0",
+    "gatsby-transformer-sharp": "^4.0.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-helmet": "^6.1.0",
-    "sass": "^1.34.1"
+    "sass": "^1.43.4"
   },
   "devDependencies": {
-    "@tsconfig/node16": "^1.0.1",
-    "@types/react": "^17.0.9",
-    "@types/react-dom": "^17.0.6",
-    "@types/react-helmet": "^6.1.1",
-    "gatsby-plugin-root-import": "^2.0.6",
+    "@tsconfig/node16": "^1.0.2",
+    "@types/node": "^16.11.6",
+    "@types/react": "^17.0.33",
+    "@types/react-dom": "^17.0.10",
+    "@types/react-helmet": "^6.1.4",
+    "gatsby-plugin-root-import": "^2.0.8",
     "husky": "^6.0.0",
-    "prettier": "^2.3.0",
-    "pretty-quick": "^3.1.0"
+    "prettier": "^2.4.1",
+    "pretty-quick": "^3.1.1"
   },
   "husky": {
     "hooks": {
