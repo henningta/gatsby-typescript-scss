@@ -2,7 +2,7 @@
   "name": "gatsby-typescript-scss",
   "version": "1.0.0",
   "private": true,
-  "description": "A simple starter project for Gatsby with TypeScript and Sass support",
+  "description": "A simple starter project for Gatsby with TypeScript and Scss support",
   "author": "Travis Henning",
   "keywords": [
     "gatsby",
@@ -63,10 +63,5 @@
     "prettier": "^2.7.1",
     "pretty-quick": "^3.1.3",
     "typescript": "^4.7.4"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "pretty-quick --staged"
-    }
   }
 }
