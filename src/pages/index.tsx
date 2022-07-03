@@ -54,7 +54,7 @@ const links = [
   },
 ];
 
-const HomePage = () => (
+const HomePage: React.FC = () => (
   <Page className="home">
     <h1 className="title">
       Congratulations

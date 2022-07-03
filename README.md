@@ -4,10 +4,10 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby - TypeScript/Sass starter
+  Gatsby - TypeScript/Scss starter
 </h1>
 
-This starter project is built off the official Gatsby starter and comes equipped with TypeScript and Sass/Scss support for a more powerful and flexible front-end development experience.
+This starter project is built off the official Gatsby starter and comes equipped with TypeScript and Scss support for a more powerful and flexible front-end development experience.
 
 ## 🚀 Quick start
 
@@ -16,7 +16,7 @@ This starter project is built off the official Gatsby starter and comes equipped
     Use the Gatsby CLI to create a new site, specifying the minimal starter.
 
     ```shell
-    # create a new Gatsby site using the TypeScript/Sass starter
+    # create a new Gatsby site using the TypeScript/Scss starter
     git clone https://github.com/henningta/gatsby-typescript-scss.git my-gatsby-site
     ```
 
