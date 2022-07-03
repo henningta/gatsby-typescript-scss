@@ -1,10 +1,43 @@
 @import 'reset';
 @import 'typography';
 
+html,
+body {
+  width: 100%;
+  height: 100vh;
+}
+
+html {
+  box-sizing: border-box;
+  overflow: auto scroll;
+  scroll-behavior: smooth;
+
+  &.no-scroll {
+    overflow: hidden;
+    scrollbar-gutter: stable;
+  }
+}
+
 body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #fafafa;
+  color: #333;
+
+  #___gatsby {
+    height: 100%;
+
+    #gatsby-focus-wrapper {
+      height: 100%;
+    }
+  }
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
 }

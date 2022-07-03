@@ -1,4 +1,6 @@
 .cache/
+.husky/_
+.vscode/
 node_modules/
 public/
 
